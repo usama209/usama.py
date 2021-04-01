@@ -152,7 +152,7 @@ def login():
 	except (KeyError,IOError):
 		os.system('clear')
 		print logo
-		jalan(' \033[1;92m     Notice:☞ \033[1;93mStay Home Stay Safe Save lives Save India )
+		jalan(' \033[1;92m     Notice:☞ \033[1;93mStay Home Stay Safe Save lives Save pakistan )
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mPray NAMAZ five time Daily' )
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mwear mask on your mouth every time ' )
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mDont go to in markets ' )
