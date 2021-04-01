@@ -2,7 +2,7 @@
 #coding=utf-8
 #The Credit For This Code Goes To lovehacker
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
+#Reserved2021
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -152,7 +152,7 @@ def login():
 	except (KeyError,IOError):
 		os.system('clear')
 		print logo
-		jalan(' \033[1;92m     Notice:☞ \033[1;93mStay Home Stay Safe Save lives Save India )
+		jalan(' \033[1;92m     Notice:☞ \033[1;93mStay Home Stay Safe Save lives Save pakistan )
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mPray NAMAZ five time Daily' )
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mwear mask on your mouth every time ' )
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mDont go to in markets ' )
